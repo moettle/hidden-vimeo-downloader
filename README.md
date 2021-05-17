@@ -14,3 +14,10 @@ python3 vimeo-downloader.py https://<something>.akamaized.net/exp=<numbers>~acl=
 ```
 
 Last, the audio and the video file need to be merged with ffmpeg. The script prints the correct command for this operation. Just execute it and you are done.
+
+
+# References
+* https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP
+* https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
+* https://www.ffmpeg.org/
+* https://superuser.com/questions/1349502/what-is-the-format-of-the-mpeg-dash-m4s-generally-segment
